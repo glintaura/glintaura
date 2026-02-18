@@ -1,16 +1,16 @@
-## Hi there 👋
+# Glintaura  – Natural Crystal Store
 
-<!--
-**glintaura/glintaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Glintaura is a premium crystal and healing products brand in India.
 
-Here are some ideas to get you started:
+Visit our official website:
+https://glintaura.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Popular Products
+- Crystal Bracelets
+- Healing Crystals
+- Crystal Trees
+- Crystal Water Bottles
+- Crystal Pyramids
+
+Shop now:
+https://glintaura.com/
